@@ -1,4 +1,4 @@
-class soal3 {
+class main {
 ///djamaatul anbiya
 ///runner https://onecompiler.com/java/3xju5pdqh
     public static void main(String[] args) throws Exception {
