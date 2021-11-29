@@ -17,6 +17,9 @@ class main {
                     System.out.print(" *");
                 }
             }
+            if(i == 2){
+                System.out.print(" =");
+            }
             System.out.print("\n");
         }
 
@@ -41,6 +44,9 @@ class main {
                 } else {
                     System.out.print(" *");
                 }
+            }
+            if(i == 0){
+              System.out.print(" =");
             }
 
         }
