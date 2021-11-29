@@ -1,8 +1,7 @@
 # dumbways
 
 *djamaatul anbiya*,*29 november 2021*
-
-<br><br>
+<br>
 
 
 ## __Tugas 1__
@@ -21,7 +20,7 @@ Run melalui :
 https://onecompiler.com/java/3xjuajatj
 
 <br>
-<hr/><hr/>
+<hr/>
 <br>
 
 ## __Tugas 2__
@@ -40,7 +39,7 @@ Run melalui :
 https://es6console.com/kwk75cch/
 
 <br>
-<hr/><hr/>
+<hr/>
 <br>
 
 
