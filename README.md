@@ -8,9 +8,9 @@
 
 #### File : [Tugas1](https://github.com/djamaatul/dumbways/blob/main/1.java)
 
-- Software : VisualCode
+- Software : Visual Studio Code
 
-- Test  : 
+- Testing  : 
 
 ```
 javac fileName.java
@@ -28,9 +28,9 @@ https://onecompiler.com/java/3xjuajatj
 #### File : [Tugas 2](https://github.com/djamaatul/dumbways/blob/main/2.js)
 
 
-- Software : VisualCode
+- Software : Visual Studio Code
 
-- Test  : 
+- Testting  : 
 
 ```
 node fileName.js
@@ -48,9 +48,9 @@ https://es6console.com/kwk75cch/
 #### File : [Tugas 3](https://github.com/djamaatul/dumbways/blob/main/3.java)
 
 
-- Software : VisualCode
+- Software : Visual Studio Code
 
-- Test  : 
+- Testing  : 
 
 ```
 javac fileName.java
