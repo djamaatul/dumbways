@@ -17,7 +17,7 @@ javac fileName.java
 java fileName
 ```
 Run melalui : 
-https://onecompiler.com/java/3xjuajatj
+<https://onecompiler.com/java/3xjuajatj>
 
 <br>
 <hr/>
@@ -36,7 +36,7 @@ https://onecompiler.com/java/3xjuajatj
 node fileName.js
 ```
 Run melalui : 
-https://es6console.com/kwk75cch/
+<https://es6console.com/kwk75cch/>
 
 <br>
 <hr/>
@@ -57,4 +57,4 @@ javac fileName.java
 java fileName
 ```
 Run melalui : 
-https://onecompiler.com/java/3xju5pdqh
+<https://onecompiler.com/java/3xjxafag6>
