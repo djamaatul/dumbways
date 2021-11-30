@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## Peserta dubways preBootcam Batch 29 Fullstack
+## Peserta DumbWays Bootcam Batch 29 Fullstack
 - Nama : D. Jama’atul Anbiya
 - Nomor Induk Siswa : DWF29DJA   
 <hr>
