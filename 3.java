@@ -1,6 +1,6 @@
 class main {
 ///djamaatul anbiya
-///runner https://onecompiler.com/java/3xju5pdqh
+///runner https://onecompiler.com/java/3xjxafag6
     public static void main(String[] args) throws Exception {
         char[] dumbways = { 'D', 'U', 'M', 'B', 'W', 'A', 'Y', 'S', 'I', 'D' };
         for (int i = 0; i < 3; i++) {
